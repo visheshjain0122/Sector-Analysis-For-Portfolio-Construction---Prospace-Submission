@@ -3,6 +3,8 @@ This repo contains the assignment submission for Sector Analysis For Portfolio C
 
 The assignment is listed as **Assignment_Main_SectorAnalysisForPortfolioConstruction_VisheshJain.ipynb**
 
+Assignment contains all of the necessary tasks and analysis which are to be performed.
+
 ## Instructions
 It is recommended that once you reach the prediction model of the assignment, you should look through some of these files
 
